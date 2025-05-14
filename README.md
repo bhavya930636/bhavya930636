@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ML,Image Processing,AI**
 
-- 📫 How to reach me **bhavya101914@gmail.com**
+- 📫 How to reach me **bhavyaj@iitbhilai.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
