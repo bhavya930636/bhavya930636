@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavya930636" alt="bhavya930636" /></a> </p>
 
-- 🔭 I’m currently working on **similar case retrieval using BM25 and Graph Neural Networks (GNNs).**
+-  I’m currently working on **multimodal interpretability in clinical depression detection**
 
-- 🌱 I’m currently learning **new technologies emerging in AI and ML.**
+-  I’m currently learning **new technologies emerging in AI and ML.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhavya930636](https://github.com/bhavya930636)
+-  All of my projects are available at [https://github.com/bhavya930636](https://github.com/bhavya930636)
 
-- 💬 Ask me about **ML,Image Processing,AI**
+-  Ask me about **ML,Image Processing,AI**
 
-- 📫 How to reach me **bhavyaj@iitbhilai.ac.in**
+-  How to reach me **bhavyaj@iitbhilai.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhavya jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavya jain" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/bhavya jain](https://www.linkedin.com/in/bhavya-jain-51a992251/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavya jain" height="30" width="40" /></a>
 <a href="https://instagram.com/bhavyajain215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavyajain215" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@bhavyajain3824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bhavyajain3824" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhavya101914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhavya101914" height="30" width="40" /></a>
