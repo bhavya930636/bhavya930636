@@ -10,6 +10,7 @@
 -  I’m currently learning **new technologies emerging in AI and ML.**
 
 -  All of my projects are available at [https://github.com/bhavya930636](https://github.com/bhavya930636)
+-  Stay tuned for upcoming projects using Blockchain and Information Retrieval.
 
 -  Ask me about **ML,Image Processing,AI**
 
